@@ -4,7 +4,7 @@ Winner of global hackathon HackBytes
 
 Won Most technically difficult hack 
 
-Deployed at : https://share.streamlit.io/kadamu748/stayhealthy/main/app.py
+Deployed at : https://umak1106-stay-healthy-app-nykiul.streamlitapp.com/
 
 Devpost Link : https://devpost.com/software/stay-healthy-suc1ki
 
