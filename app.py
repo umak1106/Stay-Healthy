@@ -19,9 +19,8 @@ selection = st.sidebar.radio("Go to", list(PAGES.keys()))
 page = PAGES[selection]
 page.app()
 st.sidebar.header('About Me & this project')
-st.sidebar.write('Hi! I am Uma kadam from IIIT Guwahati and Stay healthy won under the category Most Technically difficult Hack in Hackbytes. from'
-                 ' 160+ participants hosted on Devpost')
+st.sidebar.write('Hi! I am Uma kadam from IIIT Guwahati')
 
 st.sidebar.write("[Linkedin](https://www.linkedin.com/in/uma-kadam-7885341b0/)")
 st.sidebar.write("[Github](https://github.com/umak1106)")
-st.sidebar.write("[Devpost](https://devpost.com/software/stay-healthy-suc1ki)")
+
